@@ -1,1 +1,2 @@
 # odin-recipes
+This is a quick project to document recipes and to help me practice the HTML skills that I have learned. From setting up the HTML boilerplate to making lists. I put my own flair into it and shared my grandma's recipes, which she never actually writes them down or gives me measurements, so all her recipes are from memory and "eyeballing" the measurements. 
